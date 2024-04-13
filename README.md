@@ -1,6 +1,4 @@
-ATM Banking Transaction Application.
-
-Lets Play with your balance!
+Add to Cart List for online shoping
 
 **By: Talha Khan - TK**
 
